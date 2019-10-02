@@ -1,7 +1,7 @@
 # SNAP
 A Simple Network Automation Program to load a Cisco router from nothing to something somewhat quickly.
 
-![](images/Snap1.png)
+<img src="images/Snap1.png>
 
 # How does it work:
 Open SNAP.
